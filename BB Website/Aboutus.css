@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+#bb{
+    background-color: black;
+    height: 40%;
+    width: 100%;
+    color: white;
+    cursor: pointer;
+}
+#flower{
+    margin-left: 700px;
+}
+#nav1{
+    width:30%;
+    height:55%;
+    margin-left: 20px;
+
+}
+#navv{
+   margin-left: 20px;
+   margin-top: 25px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: 1000;
+   font-size: larger;
+}
+#navv:hover{
+    color: orange;
+}
+#button{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: larger;
+    
+}
+#button:hover{
+    color: white;
+}
+span{
+    color: orange;
+}
+#logo{
+    width:35px;
+    height:35px;
+}
+div#paral.container{
+    width:100%;
+    height: 40%;
+}
+div#para.col{
+    text-align: center;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+#para{
+    text-align: center;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size:xx-large
+}
+#para2{
+    text-align: center;
+    color: white;
+    font-family: "New Rocker", system-ui
+}
+#navlogo{
+    height: 60%;
+    width:60%;
+}
+#nav{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    word-spacing: 2px;
+    margin-left: 50px;
+}
+#nav:hover{
+    color: gold;
+}
+#btn{
+    font-size: 12px;
+    color: #2a2a2a;
+    font-family: Poppins;
+    padding: 11px 25px 10px;
+    display: inline-block;
+    background-color:gold;
+}
+#btn:hover{
+    cursor: pointer;
+    color: white;
+}
+#small{
+    margin-left: 15px;
+    font-size: 15px;
+    color: darkgray;
+    word-spacing: 2px;
+}
+#hpara{
+text-align: center;
+color: gold;
+font-family: "New Rocker", system-ui;
+font-size: xx-large;
+}
+#mainpara{
+    text-align: center;
+    font-family: Poppins;
+}
+#blank{
+    width:100%;
+    height:70%;
+    background-color: linen;
+}
+#img{
+    width:90%;
+    height:70%;
+    filter:opacity(40%);
+}
+#final1{
+    width:100%;
+    height:50%;
+}
+#final2{
+    color: white;
+    text-wrap: nowrap;
+    font-family: "Poppins", sans-serif;
+    font-size:13px;
+    line-height: 25px;
+}
+#final3{
+    color: white;
+    font-family: "New Rocker", system-ui;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 5%;
+}
+#final4{
+    color: white;
+    text-wrap: nowrap;
+    font-family: "Poppins", sans-serif;
+    font-size:13px;
+    line-height: 35px;
+    margin-left: 5%;
+}
+#final5{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: "New Rocker", system-ui;
+    
+}
+#final6{
+        color: white;
+        text-wrap: nowrap;
+        font-family: "Poppins", sans-serif;
+        font-size:13px;
+}
+#fb{
+    height:25px;
+    width: 25px;
+}
+.bottom-bar {
+    float: left;
+    width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: #1b1b1b;
+    text-align: center;
+}
+.bottom-bar p {
+    color: #999;
+    margin-bottom: 0;
+    padding: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+#resto1{
+    width: 50%;
+    height: 50%;
+    margin-left: 170px;
+}
+#resto2{
+    width: 50%;
+    height: 50%;
+    margin-right: 200px;
+}
+#resto3{
+    width: 50%;
+    height: 50%;
+    margin-left: 10%;
+}
+#icon1{
+    position: absolute;
+}
